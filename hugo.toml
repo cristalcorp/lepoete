@@ -2,6 +2,10 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Le Poete'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [module]
 [[module.imports]]
 disable = false
