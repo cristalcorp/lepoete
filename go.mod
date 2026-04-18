@@ -1,0 +1,5 @@
+module github.com/cristalcorp/lepoete
+
+go 1.26.2
+
+require github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 // indirect
