@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
+baseURL = 'https://lepoete.n8-solutions.fr'
+locale = 'fr-fr'
 title = 'Le Poete'
 
 [caches]
